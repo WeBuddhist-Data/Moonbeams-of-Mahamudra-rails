@@ -199,9 +199,10 @@
   },
   "active": "e315ed06061adff1",
   "lastOpenFiles": [
+    "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར་གཏུབ་ཟིན.md",
+    "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
     "1-SOURCES/Commentaries/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར་གྱི་ས་བཅད།.md",
     "1-SOURCES/Commentaries/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར་གྱི་ས་བཅད.md",
-    "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
     "1-SOURCES/Commentaries/phyag_chen_sabcad.md",
     "1-SOURCES/Commentaries/ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་བདུད་རྩིའི་བུམ་བཟང་།.md",
     "1-SOURCES/Text/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
     "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md"
+    "4-SYSTEM/Skills/glossary-select/SKILL.md"
   ]
 }
