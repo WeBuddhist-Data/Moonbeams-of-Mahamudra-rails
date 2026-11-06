@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་བདུད་རྩིའི་བུམ་བཟང་།.md",
+                "file": "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་བདུད་རྩིའི་བུམ་བཟང་།"
+              "title": "ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "e315ed06061adff1",
   "lastOpenFiles": [
-    "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
     "1-SOURCES/Commentaries/ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་བདུད་རྩིའི་བུམ་བཟང་།.md",
+    "1-SOURCES/Text/ཕྱག་ཆེན་ཟླ་བའི་འོད་ཟེར།.md",
     "1-SOURCES/Text/རྡོ་རྗེ་གཅོད་པ་རྩ་འགྲེལ། R3C4E9ABF.md",
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
